@@ -1,0 +1,23 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "Uso de express",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo238/tareaExpress.git"
+  },
+  "author": "pablo-238@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablo238/tareaExpress/issues"
+  },
+  "homepage": "https://github.com/pablo238/tareaExpress#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  }
+}
